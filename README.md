@@ -187,10 +187,6 @@ Endpoints de validacao:
 - `http://localhost:3001/health/db`
 - `http://localhost:3001/docs`
 
-Credencial seed inicial:
-
-- tenant: `dracamilacapeli`
-- email: `admin@dracamilacapeli.com.br`
-- senha: `123456`
+Para acesso ao codigo solicite via Email: Jeffersonlima@jeffersonlima.net.br
 
 
